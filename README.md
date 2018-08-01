@@ -5,11 +5,11 @@
 
 With Yarn:
 
-`$ yarn add ajinasokan/react-native-shadowview`
+`$ yarn add dike40/react-native-shadowview`
 
 With NPM:
 
-`$ npm install ajinasokan/react-native-shadowview --save`
+`$ npm install dike40/react-native-shadowview --save`
 
 ## Link
 
