@@ -2,6 +2,7 @@
 buildscript {
     repositories {
         jcenter()
+        maven { url 'https://jitpack.io' }
     }
 
     dependencies {
@@ -31,7 +32,7 @@ repositories {
 }
 
 dependencies {
-    // compile 'com.github.devlight.shadowlayout:library:+'
+    compile 'com.github.dike40:ShadowLayout:+'
     compile "com.facebook.react:react-native:+"
 }
   
